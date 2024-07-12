@@ -1,4 +1,4 @@
-# React Formik Login Form
+# Build a Formik form
 
 ## Description
 This project is a simple React application that demonstrates how to create a login form with validation using the Formik library. The login form includes fields for email and password, and it provides validation messages to ensure that the email is in the correct format and that both fields are filled out before submission. If the validation passes, a success message is displayed.
