@@ -16,5 +16,5 @@ This project is a simple React application that demonstrates how to create a log
 - Style the form with more modern and responsive design.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/LucaBrizuela/BuildAFormikForm/blob/main/LICENSE) file for details.
 
