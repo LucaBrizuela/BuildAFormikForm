@@ -1,0 +1,52 @@
+.login__page {
+    width: 400px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+
+.container__login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding: 5% 0 5% 0;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.login__title {
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+/* Set a style for formik errors */
+#error {
+    background-color: #ffcaca;
+    color: red;
+    padding: 5px 0;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for login button */
+#submitBtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+#submitBtn:hover {
+    opacity: 0.8;
+}
